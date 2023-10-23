@@ -1,0 +1,165 @@
+/*Los imports son los estilos de la letras*/
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@900&family=Shippori+Mincho&display=swap');
+
+body {
+    background-color: #09040D;
+}
+
+#titulo {
+    font-family: 'Alegreya', serif;
+    font-size: 100px;
+    text-align: center;
+    color: #FF4D0D;
+}
+
+#text {
+    font-family: 'Alegreya', serif;
+    font-family: 'Shippori Mincho', serif;
+    color: white;
+}
+
+.navbar {
+    background-color: #80728C;
+    padding: 0;
+}
+
+.container-fluid {
+    background-color: #B80707;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    font-weight: bold;
+    text-align: center;
+    color: #351400;
+}
+
+.Rep {
+    /* La imagen se ajustará al ancho del contenedor */
+    height: auto;
+    /* La altura se ajustará automáticamente para mantener la proporción */
+    text-align: center;
+    /* Centra horizontalmente el contenido del div */
+    display: block;
+    /* Asegura que la imagen sea un elemento de bloque */
+    margin: 0 auto;
+    /* Centra horizontalmente la imagen */
+    padding: 0;
+}
+
+.icon-container {
+    display: inline-block;
+    text-align: center;
+    margin: 40px;
+    font-family: 'Alegreya', serif;
+    font-family: 'Shippori Mincho', serif;
+    color: white;
+}
+
+.ICONO {
+    width: 100px;
+    /* Ancho de la imagen */
+    height: 100px;
+    /* Alto de la imagen */
+    display: block;
+    margin: 0 auto;
+    /* Centra la imagen horizontalmente */
+}
+
+.Icos {
+    margin-top: 10px;
+    /* Espacio entre la imagen y el texto */
+}
+
+h1 {
+    font-family: 'Alegreya', serif;
+    font-size: 70px;
+    text-align: center;
+    color: #FF4D0D;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid white;
+    text-align: center;
+    font-family: 'Alegreya', serif;
+    font-family: 'Shippori Mincho', serif;
+    color: white;
+}
+
+table tr {
+    width: auto;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: 'Alegreya', serif;
+    font-family: 'Shippori Mincho', serif;
+    color: white;
+}
+
+table td {
+    width: auto;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: 'Alegreya', serif;
+    font-family: 'Shippori Mincho', serif;
+    color: white;
+}
+
+.sinopsis {
+    width: auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.ttable {
+    font-size: 30px;
+}
+
+.poster {
+    width: 10%;
+}
+
+.tt {
+    font-family: 'Alegreya', serif;
+    color: #466BFF;
+    text-align: center;
+}
+
+.Hora {
+    font-family: 'Alegreya', serif;
+    color: white;
+    text-align: left;
+}
+
+.txt {
+    font-family: 'Alegreya', serif;
+    font-family: 'Shippori Mincho', serif;
+    color: white;
+}
+.Namepeli{
+    padding: 10px;
+    font-family: 'Alegreya', serif;
+    color: #466BFF;
+    text-align: center;
+}
+.posters{
+    max-width: 400px;
+    /* La imagen se ajustará al ancho del contenedor */
+    height: auto;
+    /* La altura se ajustará automáticamente para mantener la proporción */
+    text-align: center;
+    /* Centra horizontalmente el contenido del div */
+    display: block;
+    /* Asegura que la imagen sea un elemento de bloque */
+    margin: 0 auto;
+    /* Centra horizontalmente la imagen */
+}
+.sino{
+    font-size: 30px;
+    font-family: 'Alegreya', serif;
+    font-family: 'Shippori Mincho', serif;
+    color: white;
+    text-align: center;
+}

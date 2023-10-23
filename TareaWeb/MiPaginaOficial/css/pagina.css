@@ -1,0 +1,77 @@
+
+.header {
+    background-color: #444444; /* Color de fondo del encabezado */
+    color: #ffffff; /* Color de texto oscuro */
+    padding: 5px; /* Añade un espacio interno para separar el contenido */
+    display: flex; /* Establece un diseño flex para alinear elementos horizontalmente */
+    align-items: center; /* Centra verticalmente el contenido */
+     
+  
+   
+}
+
+.header h1{
+    flex: 1;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+    
+}
+
+.nav-item {
+    margin-top: 5px;
+    padding: 5px;
+    margin-left: 120px;
+    margin-right: 20px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+    border: 2px solid #000000; 
+    border-radius: 90%
+}
+
+.nav-item:hover {
+    background-color: rgb(255, 255, 255); 
+}
+
+
+
+
+  .contenido p{
+    padding: 20px;
+    color: #000000;
+  }
+
+  .contenido h2{
+    color: #000000;
+  }
+
+  footer{
+    width: 100%;
+    text-align: center;
+    background-color: #665f5f;
+   
+  }
+
+  .cuadro6 img{
+    padding-left: 5%;
+    display: inline-block;
+    margin: 10px;
+    transition: transform 0.3s; 
+}
+
+
+.cuadro6 img:hover {
+    transform: scale(1.2); 
+}
+
+
+
+
+
+ 
+  
+
+  
+
+
+
